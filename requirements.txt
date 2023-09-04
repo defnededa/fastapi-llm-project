@@ -1,0 +1,4 @@
+fastapi[all]
+transformers
+jinja2
+uvicorn
